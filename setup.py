@@ -15,7 +15,7 @@ setuptools.setup(
     ],
     license='MIT',
     install_requires=[
-        'torch>=1.11',
+        'torch>=1.9',
         'typing_extensions>=4.1',
         'numpy>=1.21',
         'pillow>=7.1',
